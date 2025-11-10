@@ -1,0 +1,8 @@
+Buenas tardes, para acceder a la pagina web priemro debe descargar la carpeta
+"TrabajoWebFinal-Gurpo 5"
+
+Segundo, debe descomprimir el archivo y luego abrir la carpeta
+"1Principal"
+
+y luego ejecutar con doble click el archivo llamado
+"Index"
